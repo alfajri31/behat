@@ -1,0 +1,20 @@
+{
+    "name": "fajri/behat",
+    "authors": [
+        {
+            "name": "fajri",
+            "email": "alfajri3112@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "behat/behat": "^3.7",
+        "phpunit/phpunit": "^7.5",
+        "behat/mink": "^1.8",
+        "behat/mink-extension": "^2.3",
+        "behat/mink-goutte-driver": "^1.2",
+        "behat/mink-selenium2-driver": "^1.4",
+        "bossa/phpspec2-expect": "^3.1",
+        "dmore/chrome-mink-driver": "^2.7"
+    }
+}
